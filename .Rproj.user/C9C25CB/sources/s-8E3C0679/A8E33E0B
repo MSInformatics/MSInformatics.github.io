@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1983449826",
+    "hash" : "0",
     "id" : "A8E33E0B",
-    "lastKnownWriteTime" : 1529269168,
-    "last_content_update" : 1529269168,
+    "lastKnownWriteTime" : 1529274194,
+    "last_content_update" : 1529274194422,
     "path" : "~/sites/ms-informatics/ms-informatics-site/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "98,9",
+        "scrollLine" : "86"
     },
     "relative_order" : 1,
     "source_on_save" : false,
