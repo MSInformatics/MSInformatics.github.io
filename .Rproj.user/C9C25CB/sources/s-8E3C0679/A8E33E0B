@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529269171470.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1983449826",
+    "id" : "A8E33E0B",
+    "lastKnownWriteTime" : 1529269168,
+    "last_content_update" : 1529269168,
+    "path" : "~/sites/ms-informatics/ms-informatics-site/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

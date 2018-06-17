@@ -1,0 +1,33 @@
+]0;~/sites/ms-informatics/ms-informatics-site[?1034h[38;5;203mbrucebawest[38;05;38m[0;34m ms-informatics-site
+$ [0m[K$ [0mpwd
+/Users/brucebawest/sites/ms-informatics/ms-informatics-site
+]0;~/sites/ms-informatics/ms-informatics-site[38;5;203mbrucebawest[38;05;38m[0;34m ms-informatics-site
+$ [0mgit status
+fatal: Not a git repository (or any of the parent directories): .git
+]0;~/sites/ms-informatics/ms-informatics-site[38;5;203mbrucebawest[38;05;38m[0;34m ms-informatics-site
+$ [0mgit init[K[K[K[K[K[K[K[Kls
+archetypes			content				index.Rmd			ms-informatics-site.Rproj	themes
+config.toml			data				layouts				static
+]0;~/sites/ms-informatics/ms-informatics-site[38;5;203mbrucebawest[38;05;38m[0;34m ms-informatics-site
+$ [0mgit s[Kinit
+Initialized empty Git repository in /Users/brucebawest/sites/ms-informatics/ms-informatics-site/.git/
+]0;~/sites/ms-informatics/ms-informatics-site[38;5;203mbrucebawest[38;05;38m (master #)[0;34m ms-informatics-site
+$ [0mgit status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/[m
+	[31mconfig.toml[m
+	[31mcontent/[m
+	[31mindex.Rmd[m
+	[31mms-informatics-site.Rproj[m
+	[31mstatic/[m
+	[31mthemes/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;~/sites/ms-informatics/ms-informatics-site[38;5;203mbrucebawest[38;05;38m (master #)[0;34m ms-informatics-site
+$ [0mgit add .
